@@ -1,0 +1,3 @@
+services:
+    linux0uid_content_finder.finder:
+        class: linux0uid\ContentFinderBundle\Services\FinderContext
