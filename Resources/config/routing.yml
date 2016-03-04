@@ -1,3 +1,0 @@
-linux0uid_content_finder_homepage:
-    path:     /
-    defaults: { _controller: linux0uidContentFinderBundle:Default:index }
