@@ -34,7 +34,7 @@ class FindInContentCommandTest extends KernelTestCase
             )
         );
 
-        $this->assertRegExp('/.../', $commandTester->getDisplay());
+        $this->assertRegExp('/1\ file/', $commandTester->getDisplay());
 
     }
 }
