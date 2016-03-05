@@ -1,5 +1,5 @@
 {
-    "name" : "linux0uid/ContentFinderBundle",
+    "name" : "massmedias/contentfinderbundle",
     "description" : "Symfony2 Full text finder",
     "version" : "1.0.0",
     "type" : "symfony-bundle",
